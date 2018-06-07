@@ -2,7 +2,6 @@
 #OUTPUT BOARD
 def display_board(
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "])
-  
 #board output
 puts " #{board[0]} | #{board[1]} | #{board[2]} "
 puts "-----------"
