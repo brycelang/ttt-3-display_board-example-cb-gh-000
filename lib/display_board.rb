@@ -2,7 +2,7 @@
 #OUTPUT BOARD
 def display_board(
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "])
-  puts 'a 3x3 tic tac board'
+  
 #board output
 puts " #{board[0]} | #{board[1]} | #{board[2]} "
 puts "-----------"
